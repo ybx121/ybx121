@@ -5,7 +5,7 @@
 - Major in Computer Science
 
 ## Homepage
-- [My Homepage](https://github.com/YangBingXi2006)
+- https://github.com/YangBingXi2006
 
 ## Contact
 - Email: yangbx12023@shanghaitech.edu.cn
