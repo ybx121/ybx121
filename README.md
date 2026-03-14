@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+## About me
+- Undergraduate student at ShanghaiTech University
+- Major in Computer Science
+- Interested in AI, robotics, and machine learning
+
+## Homepage
+- [My Homepage](https://github.com/YangBingXi2006)
+
+## Contact
+- Email: yangbx12023@shanghaitech.edu.cn
+
 <!--
 **YangBingXi2006/YangBingXi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
