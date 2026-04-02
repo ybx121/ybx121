@@ -8,8 +8,9 @@
 - https://github.com/YangBingXi2006
 
 ## Contact
-- Email: yangbx12023@shanghaitech.edu.cn
-         yangbingxi621@gmail.com
+- Email:
+  - yangbx12023@shanghaitech.edu.cn
+  - yangbingxi621@gmail.com
 
 <!--
 **YangBingXi2006/YangBingXi2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
