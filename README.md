@@ -5,7 +5,7 @@
 - Major in Computer Science
 
 ## Homepage
-- [https://github.com/YangBingXi2006](https://github.com/ybx121)
+- [https://github.com/ybx121](https://github.com/ybx121)
 
 ## Contact
 - Email:
